@@ -1,0 +1,63 @@
+_repo: Mary-Schweidler-the-amber-witch--13-The-most-interesting-trial-for-witchcraft-ever-known-print__8743
+_version: 0.0.1
+alternative_title: Maria Schweidler die Bernsteinhexe. English
+contributor:
+  translator:
+    agent_name: Duff Gordon, Lucie, Lady
+    aliases:
+    - Austin, Lucie, Lady
+    - Gordon, Lucie Duff, Lady
+    - Duff-Gordon, Lucie Austin, Lady
+    birthdate: 1821
+    deathdate: 1869
+    gutenberg_agent_id: '458'
+    url: http://www.gutenberg.org/2009/agents/458
+    wikipedia: http://en.wikipedia.org/wiki/Lucie%2C_Lady_Duff-Gordon
+creator:
+  author:
+    agent_name: Meinhold, Wilhelm
+    aliases:
+    - Meinhold, Johann Wilhelm
+    - Meinhold, W. (Wilhelm)
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '2163'
+    url: http://www.gutenberg.org/2009/agents/2163
+    wikipedia: http://en.wikipedia.org/wiki/Wilhelm_Meinhold
+description: "The Amber Witch is a German novel published by Wilhelm Meinhold (1797–1851)\
+  \ in 1838. Its German title is Maria Schweidler, die Bernsteinhexe. The novel was\
+  \ originally published as a literary hoax which purported to be an actual 17th-century\
+  \ chronicle. Meinhold later admitted to the hoax but had some difficulty in proving\
+  \ that he was its author. In 1844, it was published in Britain as The Amber Witch\
+  \ in two English translations: one by E. A. Friedlander and another, more enduring,\
+  \ translation by Lucy, Lady Duff-Gordon.\nLady Duff Gordon's translation was very\
+  \ popular with the Victorians and went through numerous editions, including a luxurious\
+  \ one in 1895 illustrated by Philip Burne-Jones. The novel was a favourite of Oscar\
+  \ Wilde's when he was a boy, and in 1861 it was made into an opera, The Amber Witch,\
+  \ composed by William Vincent Wallace. Wallace's opera has faded into obscurity,\
+  \ but the novel on which it was based has continued to be republished, both on its\
+  \ own and in anthologies.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Witchcraft
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8743'
+  lccn: 07018475
+  wikidata: Q974886
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witchcraft -- Pomerania (Poland and Germany)'
+- !lcc 'PT'
+- GITenberg
+title: "Mary Schweidler, the amber witch\r\nThe most interesting trial for witchcraft\
+  \ ever known, printed from an imperfect manuscript by her father, Abraham Schweidler,\
+  \ the pastor of Coserow in the island of Usedom / edited by W. Meinhold ; translated\
+  \ from the German by Lady Duff Gordon."
+url: http://www.gutenberg.org/ebooks/8743
+wikipedia:
+- https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D8%AD%D8%B1%D9%87_%DA%A9%D9%87%D8%B1%D8%A8%D8%A7%DB%8C%DB%8C_%D8%B1%D9%86%DA%AF
+- https://de.wikipedia.org/wiki/Maria_Schweidler,_die_Bernsteinhexe
+- https://en.wikipedia.org/wiki/The_Amber_Witch
